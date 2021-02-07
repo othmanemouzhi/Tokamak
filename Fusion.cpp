@@ -554,7 +554,7 @@ int main(int argc, char **argv)
 	glutInitDisplayMode(GLUT_DEPTH | GLUT_DOUBLE | GLUT_RGBA);
 	glutInitWindowPosition(100, 100);
 	glutInitWindowSize(800, 400);
-	glutCreateWindow("OPENGL TOKAMAK OU BEIGNET ");
+	glutCreateWindow("OPENGL TOKAMAK ");
 
 	// register callbacks
 	glutReshapeFunc(changeSize); // window reshape callback
