@@ -1,8 +1,7 @@
 # Tokamak
 # Preview
 
-![Project Image](https://github.com/othmanemouzhi/Tokamak/image.png)
-
+![Project Image](https://github.com/othmanemouzhi/Tokamak/blob/main/Preview.png)
 
 ---
 
