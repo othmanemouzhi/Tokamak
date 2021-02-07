@@ -18,3 +18,7 @@ Install OPENGL
 ## Compile
 
 g++ Fusion.cpp -o Fusion.exe -lglut -lGL -lGLU 
+
+### Use
+To rotate, you can use the mouse by remaining the click and moving from left to right.
+To move, use the left, right, up and back keypress button.
